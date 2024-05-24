@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(237, 224, 46);
+}
+.overall{
+    border: 2px solid black;
+    background-color: white;
+    max-width: 1500px;
+}
+
+#qualification
+{
+    border: 1px solid black; 
+    margin-right: 50px;
+}
+.left{
+margin-right: 50px;
+}
+#dobirth{
+    margin-right: 32px;
+}
+.Left65{
+    margin-right: 68px;
+}
+#state{
+    margin-right: 85px;
+}
+#city{
+    margin-right: 95px;
+}
+#hobby{
+    margin-right: 62px;
+}
+.lef{
+    margin-left: 125px;
+    margin-top: -20px;
+}
+.overall{
+    max-width: 700px;
+}
